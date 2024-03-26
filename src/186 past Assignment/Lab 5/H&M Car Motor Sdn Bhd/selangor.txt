@@ -1,0 +1,5 @@
+Type		Plat Number		Price RM
+----		----------		---------
+Kancil		BFC5346			30000.0
+Waja		BFR5499			66000.0
+Savy		BFF1234			30000.0

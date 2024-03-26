@@ -1,0 +1,6 @@
+Type		Plat Number		Price RM
+----		----------		---------
+Kelisa		TAA3375			35000.0
+Waja		TAP5609			65000.0
+MyVi		TAN789			55000.0
+Total price for all cars in Terengganu: RM 155000.0

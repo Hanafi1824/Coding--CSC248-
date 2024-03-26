@@ -1,0 +1,13 @@
+1;Americano;Coffee;Hot;Regular;None;0.0;6.0;10.0;4.0
+1;Strawberry;Blended;None;Regular;None;0.0;8.0;10.0;2.0
+1;Strawberry;Blended;None;Large;None;0.0;8.5;12.0;3.5
+1;Cappuccino;Coffee;Hot;Regular;None;0.0;8.0;10.0;2.0
+1;Oreo;Blended;Hot;Regular;None;0.0;8.0;10.0;2.01
+1;Strawberry;Blended;None;Regular;None;0.0;8.0;8.0;0.40
+1;Mocha;Coffee;Hot;Regular;None;0.0;8.0;11.0;3.0
+1;Latte;Coffee;Hot;Regular;None;0.0;7.0;10.0;3.0
+1;Mocha;Coffee;Hot;Regular;None;0.0;11.0;11.0;0.55
+1;Strawberry;Blended;None;Regular;None;0.0;8.0;8.0;0.40
+1;Chocolate;Blended;None;Regular;None;0.0;8.0;8.0;0.40
+1;Chocolate;Blended;None;Regular;None;0.0;8.0;8.0;0.40
+1;Green Tea;Blended;None;Large;None;0.0;9.0;9.0;0.45000000000000107
